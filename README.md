@@ -42,7 +42,7 @@ Plugin Formats
 AAX, VST 2, VST 3, AU, NKS (All formats are 64-bit only)
 Supported Hosts
 Logic Pro X, Ableton Live 9–10, Pro Tools 12.8-2019, FL Studio 20, Cubase 9–10, Nuendo 10, Wavelab 10.0.0 , Sound Forge Pro 13, Sound Forge Mac 3, Studio One 4, REAPER 5, Reason 10, Audition CC 2025, Premiere Pro CC, MASCHINE 2, Komplete Kontrol, Bitwig Studio 3, Final Cut Pro X.
-iZotope Ozone Advanced 2022 Serial Number:
+iZotope Ozone Advanced 2025 Serial Number:
 I8BZX-1CMB2-VZM3X-CBZ4M-N5XCB
 6VMZ7-NXB8C-WK9SA-K1JJS-2KL3W
 AW4LS-5DFL6-KWA7S-D8FK9-HFUE1
